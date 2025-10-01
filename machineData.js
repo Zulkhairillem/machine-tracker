@@ -1112,13 +1112,18 @@ const machineData = {
       ]
     },
     "P86": {
-      "nan": [
+      "Many Reject": [
         {
           "verification": [
-            "nan"
+            "Verified all wiring connections for continuity and signs of disconnection or damage",
+            "Inspected probe pins for physical damage, wear, or deformation that could affect contact accuracy",
+            "Ensured proper alignment between the probe pins and the unit\u2019s leads (kaki unit) to prevent misreading or poor contact",
+            "Examined the printed circuit board assembly (PCBA) for solder bridges, cold joints, or short circuits that could trigger false rejects"
           ],
           "solution": [
-            "nan"
+            "Reconnected or replaced any broken wires to restore signal integrity",
+            "Swapped out damaged or worn probe pins to ensure reliable electrical contact",
+            "Adjusted the fixture to ensure accurate alignment between probe pins and unit leads"
           ]
         }
       ]
