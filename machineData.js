@@ -1161,20 +1161,6 @@ const machineData = {
       ]
     }
   },
-  "nan": {
-    "nan": {
-      "nan": [
-        {
-          "verification": [
-            "nan"
-          ],
-          "solution": [
-            "nan"
-          ]
-        }
-      ]
-    }
-  },
   "VENUS 7": {
     "P10": {
       "Pallate Not Moving": [
@@ -2332,6 +2318,200 @@ const machineData = {
             "Confirm the sensor triggers correctly when a unit is present",
             "Review PLC logic to prevent placement if nest is occupied",
             "Check for any delay or lag in sensor feedback or arm movement"
+          ]
+        }
+      ]
+    }
+  },
+  "HLSR 5": {
+    "P27 IN": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P11": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P12A": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P12B": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P13": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P16": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P18": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P22A": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P22B": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P23A": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P23B": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P24": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P25": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P26": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P27": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P27 OUT": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
           ]
         }
       ]
