@@ -2516,5 +2516,199 @@ const machineData = {
         }
       ]
     }
+  },
+  "HLSR 7": {
+    "P27 IN": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P11": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P12A": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P12B": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P13": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P16": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P18": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P22A": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P22B": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P23A": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P23B": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P24": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P25": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P26": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P27": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    },
+    "P27 OUT": {
+      "nan": [
+        {
+          "verification": [
+            "nan"
+          ],
+          "solution": [
+            "nan"
+          ]
+        }
+      ]
+    }
   }
 };
